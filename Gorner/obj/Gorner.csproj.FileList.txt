@@ -1,0 +1,8 @@
+obj\Debug\Gorner.exe
+obj\Debug\Gorner.pdb
+bin\Debug\Gorner.exe
+bin\Debug\Gorner.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Gorner.Form1.resources
+obj\Debug\Gorner.Properties.Resources.resources
+obj\Debug\Gorner.csproj.GenerateResource.Cache

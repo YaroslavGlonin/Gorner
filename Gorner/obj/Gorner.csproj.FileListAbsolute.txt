@@ -1,0 +1,16 @@
+D:\Documents and Settings\Program_develop\Мои документы\Visual Studio 2005\Projects\Gorner\Gorner\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Program_develop\Мои документы\Visual Studio 2005\Projects\Gorner\Gorner\obj\Debug\Gorner.Form1.resources
+D:\Documents and Settings\Program_develop\Мои документы\Visual Studio 2005\Projects\Gorner\Gorner\obj\Debug\Gorner.Properties.Resources.resources
+D:\Documents and Settings\Program_develop\Мои документы\Visual Studio 2005\Projects\Gorner\Gorner\obj\Debug\Gorner.csproj.GenerateResource.Cache
+D:\Documents and Settings\Program_develop\Мои документы\Visual Studio 2005\Projects\Gorner\Gorner\bin\Debug\Gorner.exe
+D:\Documents and Settings\Program_develop\Мои документы\Visual Studio 2005\Projects\Gorner\Gorner\bin\Debug\Gorner.pdb
+D:\Documents and Settings\Program_develop\Мои документы\Visual Studio 2005\Projects\Gorner\Gorner\obj\Debug\Gorner.exe
+D:\Documents and Settings\Program_develop\Мои документы\Visual Studio 2005\Projects\Gorner\Gorner\obj\Debug\Gorner.pdb
+F:\Gorner\Gorner\obj\Debug\Gorner.exe
+F:\Gorner\Gorner\obj\Debug\Gorner.pdb
+F:\Gorner\Gorner\bin\Debug\Gorner.exe
+F:\Gorner\Gorner\bin\Debug\Gorner.pdb
+F:\Gorner\Gorner\obj\Debug\ResolveAssemblyReference.cache
+F:\Gorner\Gorner\obj\Debug\Gorner.Form1.resources
+F:\Gorner\Gorner\obj\Debug\Gorner.Properties.Resources.resources
+F:\Gorner\Gorner\obj\Debug\Gorner.csproj.GenerateResource.Cache
